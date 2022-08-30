@@ -1,0 +1,18 @@
+1. What are data types?
+    Data types are what is used to work with JavaScript.    
+    Examples of data types are:
+    (primative) = Booleans (true or false), numbers, strings, null, undefined
+    (non primative) = object, arrays, 
+
+2. What are operators used for?
+    operators are used to add, subtract, divide, multiply
+    =, <, >, 
+
+3. What are conditional statements?
+    Conditional statements are used say that if one thing happens, then this will happen.
+    Otherwise this happens
+
+
+4. What are loops?
+    Blocks of code that are executed over and over until the loop conditions are met
+
